@@ -5,7 +5,7 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 در اینجا گزارش کار ها و کد های نوشته شده برای برد آردوینو و مینی پروژه ها گداشته می شود ، فایل کد های قابل اجرا در نرم افزار Arduino IDE در پوشه Arduino File قزار داده می شود و در اینجا توضیحات تکمیلی هر کد داده می شود.
 #
 
-[1 چشمک زن](https://github.com/mehdi0051/MicroProcessor/blob/main/Arduino%20File/14030709)
+[1 چشمک زن](https://github.com/mehdi0051/micro/blob/main/Arduino%20File/14030709)
 
 [2 چشمک زن با دو عدد LED](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030716)
 
